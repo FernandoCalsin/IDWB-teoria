@@ -1,0 +1,1 @@
+//Crea una función que reciba un arreglo y un número, y devuelva cuántos elementos son múltiplos de ese número

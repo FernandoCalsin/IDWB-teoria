@@ -1,0 +1,1 @@
+//Crea una función llamada mostrarResultado que use otra función interna para calcular el doble de un número

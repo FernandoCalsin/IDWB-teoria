@@ -1,0 +1,1 @@
+//Crea una función calcularTotal que reciba dos precios y una función callback para mostrar el resultado

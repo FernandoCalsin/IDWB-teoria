@@ -1,0 +1,1 @@
+//Crea una función flecha llamada evaluarNumero que reciba un número y devuelva un mensaje indicando si es positivo, negativo o cero

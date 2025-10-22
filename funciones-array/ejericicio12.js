@@ -1,0 +1,1 @@
+//Crea una función que reciba dos arreglos heterogéneos y que devuelva un arreglo con la unión, intersección y diferencia

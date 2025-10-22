@@ -1,0 +1,1 @@
+//Crea una función que reciba un arreglo y devuelva un nuevo arreglo con el menor y el mayor número, en ese orden
